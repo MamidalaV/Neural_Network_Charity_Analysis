@@ -24,7 +24,7 @@
 ### Data Preprocessing
 
 What variable(s) are considered the target(s) for your model? 
-- **- _'IS_SUCCESSFUL'_ field**
+- ** _'IS_SUCCESSFUL'_ field**
 
 What variable(s) are considered to be the features for your model? - 
 - ORGANIZATION
