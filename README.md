@@ -96,15 +96,15 @@
 # SUMMARY:
 
 A total of 9 Neural Network models have been implemented and the highest accuracy that could have been obrtaine is 73.06%
-Initial Model: Params: 465; Loss: 55.24%; Accuracy: 72.94%
-Trial Model 1: Params: 433; Loss: 55.39%; Accuracy: 73.00%
-**Trial Model 2: Params: 2281; Loss: 55.05%; Accuracy: 73.06%**
-Trial Model 3: Params: 4801; Loss: 55.14%; Accuracy: 72.94%
-Trial Model 4: Params: 7351; Loss: 55.10%; Accuracy: 72.92%
-Trial Model 5: Params: 289; Loss: 57.00%; Accuracy: 72.44%
-Trial Model 6: Params: 1741; Loss: 57.09%; Accuracy: 72.33%
-Trial Model 7: Params: 3901; Loss: 56.84%; Accuracy: 72.41%
-Trial Model 8: Params: 6451; Loss: 56.74%; Accuracy: 72.40%
+- Initial Model: Params: 465; Loss: 55.24%; Accuracy: 72.94%
+- Trial Model 1: Params: 433; Loss: 55.39%; Accuracy: 73.00%
+- **Trial Model 2: Params: 2281; Loss: 55.05%; Accuracy: 73.06%**
+- Trial Model 3: Params: 4801; Loss: 55.14%; Accuracy: 72.94%
+- Trial Model 4: Params: 7351; Loss: 55.10%; Accuracy: 72.92%
+- Trial Model 5: Params: 289; Loss: 57.00%; Accuracy: 72.44%
+- Trial Model 6: Params: 1741; Loss: 57.09%; Accuracy: 72.33%
+- Trial Model 7: Params: 3901; Loss: 56.84%; Accuracy: 72.41%
+- Trial Model 8: Params: 6451; Loss: 56.74%; Accuracy: 72.40%
 
 Way ahead: More noisy variables can be dropped and try various other combinations of activation functions with higher epochs could result in a better score.
 
