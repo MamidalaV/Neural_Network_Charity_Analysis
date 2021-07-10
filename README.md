@@ -68,6 +68,10 @@
 ![trial4](https://user-images.githubusercontent.com/74985818/125155601-15c6e180-e12f-11eb-9f9f-b2d6db596d97.png)
 ![trial4_acc](https://user-images.githubusercontent.com/74985818/125155602-15c6e180-e12f-11eb-8ef9-14184de249ac.png)
 
+### For the next few models, three other columns noisy columns, 'USE CASE', 'ORGANIZATION', 'INCOME_AMT' are dropped.
+
+![drop4](https://user-images.githubusercontent.com/74985818/125155697-a9001700-e12f-11eb-91ff-a1a0e72a6206.png)
+
 #### Trial 5 Model & Accuracy
 
 ![trial5](https://user-images.githubusercontent.com/74985818/125155603-15c6e180-e12f-11eb-87b1-c08c6a1f5f4b.png)
