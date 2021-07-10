@@ -21,7 +21,43 @@
 
 # RESULTS:
 
-### Preprocessing steps that were followed:
+### Data Preprocessing
+
+What variable(s) are considered the target(s) for your model? 
+- **- _'IS_SUCCESSFUL'_ field**
+
+What variable(s) are considered to be the features for your model? - 
+- ORGANIZATION
+- STATUS
+- INCOME_AMT
+- SPECIAL_CONSIDERATIONS
+- ASK_AMT
+- APPLICATION_TYPE
+- AFFILIATION
+- CLASSIFICATION
+- USE_CASE
+
+What variable(s) are neither targets nor features, and should be removed from the input data?
+- EIN
+- NAME
+- USE CASE
+- ORGANIZATION
+- INCOME_AMT
+
+### Compiling, Training, and Evaluating the Model
+How many neurons, layers, and activation functions did you select for your neural network model, and why?
+- hidden_nodes_layer1 = 8
+- hidden_nodes_layer2 = 3
+- number_input_features = 48
+
+Were you able to achieve the target model performance?
+- The accuracy of this model is at 72.94% which is less than the desired 75%
+
+What steps did you take to try and increase model performance?
+- Tried 4 other models after changing the neurons and the accuracy of these was still less than the desired target.
+- As a next step, three other features were dropped and reran the model with various neurons and activation functions. However, the accuracy was still not over 75%. 
+
+Details of these models are listed below.
 
 - Sample dataframe is as below:
 
