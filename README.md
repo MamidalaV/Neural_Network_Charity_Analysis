@@ -144,4 +144,4 @@ A total of 9 Neural Network models have been implemented and the highest accurac
 
 Way ahead: More noisy variables can be dropped and try various other combinations of activation functions with higher epochs could result in a better score.
 
-HDF5 files for all the above models are saved in the ![Challenge](https://github.com/MamidalaV/Neural_Network_Charity_Analysis/tree/main/Challenge) folder.
+HDF5 files for all the above models are saved at every 5 epochs in the ![Challenge](https://github.com/MamidalaV/Neural_Network_Charity_Analysis/tree/main/Challenge) folder.
