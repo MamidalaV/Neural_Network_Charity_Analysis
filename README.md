@@ -45,7 +45,7 @@ What variable(s) are neither targets nor features, and should be removed from th
 - INCOME_AMT
 
 ### Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
+How many neurons, layers, and activation functions did you select for your neural network model?
 - hidden_nodes_layer1 = 8
 - hidden_nodes_layer2 = 3
 - number_input_features = 48
