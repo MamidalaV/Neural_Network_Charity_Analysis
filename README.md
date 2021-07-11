@@ -142,6 +142,17 @@ A total of 9 Neural Network models have been implemented and the highest accurac
 - Trial Model 7: Params: 3901; Loss: 56.84%; Accuracy: 72.41%
 - Trial Model 8: Params: 6451; Loss: 56.74%; Accuracy: 72.40%
 
-Way ahead: More noisy variables can be dropped and try various other combinations of activation functions with higher epochs could result in a better score.
+### Way ahead: 
+
+Below are some of the proven ways to improve the performance and accuracy of neural network models:
+- Increase hidden Layers.
+- Change Activation function.
+- Change Activation function in Output layer.
+- Increase number of neurons.
+- Weight initialization.
+- More data.
+- Normalizing/Scaling data.
+
+The optimizations above were performed by make changes such as dropping 3 more features, adding an extra hidden layer and changing the number of neurons on each trial. This can be further adjusted by trying the above methods and improve the accuracy.
 
 HDF5 files for all the above models are saved at every 5 epochs in the ![Challenge](https://github.com/MamidalaV/Neural_Network_Charity_Analysis/tree/main/Challenge) folder.
